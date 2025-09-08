@@ -7,7 +7,10 @@
   Web Developer at Vigilante Marketing | I also run <a href="http://wilsoncreative.ca/">Wilson Creative</a>
 </h4>
 
-<div align="center">
+<div align="center" style="margin-top: 24px;">
+  <a href="mailto:ben@benmwilson.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/benmwilson/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -16,7 +19,6 @@
   </a>
 </div>
 
-<!-- spacer -->
 <div><br></div>
 
 <div align="center">
@@ -25,7 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmwilson&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
 </div>
 
-<!-- spacer -->
 <div><br></div>
 
 <h3 align="center">GitHub Trophies</h3>
