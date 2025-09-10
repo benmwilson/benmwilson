@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/UtEm1Xl.gif" alt="Hero GIF" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ben Wilson</h1>
+<h1 align="center">Hey, I'm Ben</h1>
 <h4 align="center">
   Web Developer at Vigilante Marketing | I also run <a href="http://wilsoncreative.ca/">Wilson Creative</a>
 </h4>
