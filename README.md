@@ -30,12 +30,10 @@
 <div><br></div>
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&include_all_commits=true\&show_icons=true\&theme=github_dark)
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=benmwilson&show_icons=true&theme=github_dark"
+    alt="Ben Wilson's GitHub stats"
+  />
 </div>
 
-<div><br></div>
 
-<h3 align="center">GitHub Trophies</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benmwilson&theme=one_dark_pro&no-bg=true&margin-w=4" />
-</div>
