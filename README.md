@@ -4,8 +4,16 @@
 
 <h1 align="center">Hey, I'm Ben</h1>
 <h4 align="center">
-  Web Developer at Vigilante Marketing | I also run <a href="http://wilsoncreative.ca/">Wilson Creative</a>
+  Web Developer at 
+  <a href="https://vigilante.marketing/" target="_blank" rel="noopener noreferrer">
+    Vigilante Marketing
+  </a> 
+  | I also run 
+  <a href="http://wilsoncreative.ca/" target="_blank" rel="noopener noreferrer">
+    Wilson Creative
+  </a>
 </h4>
+
 
 <div align="center" style="margin-top: 24px;">
   <a href="mailto:ben@benmwilson.dev">
@@ -22,9 +30,7 @@
 <div><br></div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benmwilson&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=benmwilson&theme=one_dark_pro&hide_border=false" alt="GitHub Streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmwilson&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&include_all_commits=true\&show_icons=true\&theme=github_dark)
 </div>
 
 <div><br></div>
