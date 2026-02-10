@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/UtEm1Xl.gif" alt="Hero GIF" />
-</p>
+</p> -->
 
 <h1 align="center">Hey, I'm Ben</h1>
 <h4 align="center">
@@ -28,12 +28,5 @@
 </div>
 
 <div><br></div>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=benmwilson&show_icons=true&theme=github_dark"
-    alt="Ben Wilson's GitHub stats"
-  />
-</div>
 
 
